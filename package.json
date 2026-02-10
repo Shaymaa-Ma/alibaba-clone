@@ -1,6 +1,7 @@
 {
   "name": "alibaba-clone",
   "version": "0.0.1",
+  "homepage": "https://github.com/Shaymaa-Ma/alibaba-clone.git",
   "private": true,
   "type": "module",
   "scripts": {
